@@ -78,7 +78,7 @@ con = psycopg2.connect(
     host = 'localhost',
     database ='mnist',
     user = 'postgres',
-    password = 'brendan',
+    password = '',
     port = '5432',
 )
 
